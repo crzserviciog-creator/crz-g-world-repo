@@ -1,0 +1,8 @@
+Origin: CRZ Repo
+Label: CRZ Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Repo personal de iconos Itachi Sharingan
