@@ -1,0 +1,8 @@
+Origin: Itachi World Repo
+Label: Itachi World Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Repo personal de iconos Itachi Sharingan
