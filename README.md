@@ -1,6 +1,10 @@
 # Itachi World - Iconos de Sharingan 🌀
 
-![Vista previa](https://raw.githubusercontent.com/crzserviciog-creator/crz-g-world-repo/refs/heads/main/crz-g-world-repoprefs/Resources/IMG_0706.jpeg)
+![Vista previa 1](https://raw.githubusercontent.com/crzserviciog-creator/crz-g-world-repo/refs/heads/main/crz-g-world-repoprefs/Resources/IMG_0706.jpeg)
+
+![Vista previa 2](https://raw.githubusercontent.com/crzserviciog-creator/crz-g-world-repo/refs/heads/main/crz-g-world-repoprefs/Resources/IMG_0707.jpeg)
+
+![Vista previa 3](https://raw.githubusercontent.com/crzserviciog-creator/crz-g-world-repo/refs/heads/main/crz-g-world-repoprefs/Resources/IMG_0708.jpeg)
 
 Bienvenido a **Itachi World**, una colección de iconos personalizados de **Itachi Uchiha y su Sharingan** para tu iPhone.  
 
